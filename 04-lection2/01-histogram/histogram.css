@@ -1,7 +1,3 @@
-.container_histogram {
-    padding-top: 50px;
-}
-
 .histogram {
     background: var(--white);
     width: 100%;
@@ -59,7 +55,7 @@
 }
 
 .histogram__line {
-    width: 9px;
+    flex-basis: 9px;
     background: var(--blue);
 }
 
