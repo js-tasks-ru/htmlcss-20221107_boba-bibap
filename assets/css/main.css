@@ -5,6 +5,10 @@
 @import '../../components/preview/preview.css';
 @import '../../components/footer/footer.css';
 @import '../../components/container/container.css';
+@import '../../components/card/card.css';
+@import '../../04-lection2/01-histogram/histogram.css';
+
+
 
 :root {
     --white: #ffffff;
@@ -27,6 +31,7 @@
 
 * {
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
 }
 html,
 body {
