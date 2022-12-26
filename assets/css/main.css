@@ -7,7 +7,8 @@
 @import '../../components/container/container.css';
 @import '../../components/card/card.css';
 @import '../../04-lection2/01-histogram/histogram.css';
-
+@import '../../components/menu/menu.css';
+@import '../../components/component-preview/component-preview.css';
 
 
 :root {
@@ -29,7 +30,7 @@
     --secondary: var(--purple);
 }
 
-* {
+body {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
